@@ -1,6 +1,6 @@
-👋 Hi, I’m @yoonseo-han
-👀 I’m interested in ...
-📫 How to reach me, gmail : yooncer00@gmail.com
+👋 Hi, I’m @yoonseo-han \
+👀 Develops beyond the screen \
+📫 Contact : yooncer00@gmail.com
 
 
 <!---
