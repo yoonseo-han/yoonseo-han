@@ -1,5 +1,5 @@
 👋 Hi, I’m @yoonseo-han \
-👀 Develops beyond the screen \
+👀 Develop over screen \
 📫 Contact : yooncer00@gmail.com
 
 
