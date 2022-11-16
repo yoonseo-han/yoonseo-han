@@ -1,6 +1,6 @@
 👋 Hi, I’m @yoonseo-han \
 👀 Develop over screen \
-📫 Contact : yooncer00@gmail.com
+📫 Contact : yooncer00@gmail.com \
 📍 Korea or HK
 
 <!---
